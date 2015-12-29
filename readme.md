@@ -2,7 +2,7 @@
 
 A slackbot that sits in LearnEsperanto#general and makes Chuck Norris jokes when you mention Zamenhof.
 
-## Help
+## Contribute
 
 2. Fork and clone.
 
