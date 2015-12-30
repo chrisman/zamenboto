@@ -14,6 +14,8 @@ A slackbot that sits in LearnEsperanto#general and makes Chuck Norris jokes when
 
 1. [Dictionary search?](http://www.simplavortaro.org/informo/api)
 
+2. [Vorto de Tago](en.lernu.net/lernado/vortoj/tagovortoj/)
+
 ## Resources
 
 1. [blog](https://scotch.io/tutorials/building-a-slack-bot-with-node-js-and-chuck-norris-super-powers) and [repo](https://github.com/lmammino/norrisbot)
